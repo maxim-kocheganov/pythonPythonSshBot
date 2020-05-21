@@ -4,7 +4,7 @@ import os
 import configparser
 # For command line argumends
 import argparse
-
+# test
 defualtHostsPath = os.path.join(os.path.curdir,"hosts","hosts.txt") 
 
 class Hosts:
